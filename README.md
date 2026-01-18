@@ -54,27 +54,11 @@ This project uses a **professional dimensional model**, which improves performan
 |------|-------------|
 | `Quality_COPQ_Portfolio.pbit` | Main template (recommended for reuse) |
 | `Quality_COPQ_Portfolio.pbix` | Optional demo version with sample data |
-| `PortfolioTheme.json` | Custom Power BI theme (colors, fonts, styles) |
 | `/screenshots/` | Report preview images |
 
 ---
 
-## 🎨 Custom Theme
-
-A custom Power BI theme (`PortfolioTheme.json`) is included to ensure:
-- consistent color palette  
-- unified typography  
-- professional layout  
-- dashboard-wide visual consistency  
-
----
-
 ## 📊 Screenshots
-
-| Overview | COPQ Page | About Page |
-|----------|-----------|------------|
-| ![](screenshots/page1_overview.png) | ![](screenshots/page2_copq.png) | ![](screenshots/about_page.png) |
-
 ---
 
 ## 🛠 Skills Demonstrated
