@@ -1,0 +1,42 @@
+claim_date,claim_id,color_status,issue,product,program
+2025-05-28,NMXWTYCHR25019953,Dark Green,Issue A,Harness B,Program A
+2025-01-28,NMXWTYCHR25002721,Dark Green,Issue A,Harness B,Program A
+2025-02-11,NUSWTYCHR25004892,Dark Green,Issue A,Harness B,Program A
+2025-09-04,NMXSQTCHR25031762,Dark Green,Issue A,Harness B,Program A
+2025-09-08,NMXWTYCHR25025198,Dark Green,Issue A,Harness B,Program A
+2025-10-08,NMXSQTCHR25035280,Light Green,Issue A,Harness B,Program A
+2025-05-09,NMXWTYCHR25017442,Dark Green,Issue B,Harness B,Program A
+2025-05-12,NUSQLTCHR25016940,Dark Green,Issue B,Harness A,Program A
+2025-01-08,NCASQTCHR26044271,RED,Issue C,Harness B,Program A
+2025-05-12,NUSQLTCHR25017921,Dark Green,Issue D,Harness A,Program A
+2025-10-03,NMXSQTCHR25034741,Light Green,Issue E,Harness B,Program A
+2025-04-21,NUSSQTCHR25014214,Dark Green,Issue E,Harness C,Program B
+2025-11-26,NMXWTYCHR25040020,RED,Issue E,Harness B,Program A
+2025-08-17,NMXWTYCHR25029874,Dark Green,Issue E,Harness B,Program A
+2025-10-30,NMXWTYCHR25028022,Light Green,Issue E,Harness B,Program A
+2025-04-21,NMXWTYCHR25013859,Dark Green,Issue E,Harness B,Program A
+2025-01-28,NMXWTYCHR25002453,Dark Green,Issue E,Harness B,Program A
+2025-08-22,NUSWTYCHR25030457,Dark Green,Issue E,Harness B,Program A
+2025-05-28,NUSWTYCHR25019879,Dark Green,Issue E,Harness C,Program B
+2025-05-09,NUSQLTCHR25017127,Dark Green,Issue E,Harness A,Program A
+2025-01-28,NMXWTYCHR25002438,Dark Green,Issue F,Harness B,Program A
+2025-01-28,NMXWTYCHR25002466,Dark Green,Issue F,Harness B,Program A
+2025-04-02,NMXWTYCHR25011911,Dark Green,Issue F,Harness B,Program A
+2025-04-22,NMXWTYCHR25014394,Dark Green,Issue F,Harness B,Program A
+2025-04-22,NMXWTYCHR25014426,Dark Green,Issue F,Harness B,Program A
+2025-04-30,NMXWTYCHR25016322,Dark Green,Issue F,Harness B,Program A
+2025-05-09,NMXWTYCHR25017439,Dark Green,Issue F,Harness B,Program A
+2025-05-09,NMXWTYCHR25017635,Dark Green,Issue F,Harness B,Program A
+2025-05-27,NMXWTYCHR25017853,Dark Green,Issue F,Harness B,Program A
+2025-05-27,NMXWTYCHR25019612,Dark Green,Issue F,Harness B,Program A
+2025-08-05,NMXWTYCHR25025787,Dark Green,Issue F,Harness B,Program A
+2025-08-05,NMXWTYCHR25028024,Dark Green,Issue F,Harness B,Program A
+2025-08-05,NMXWTYCHR25028046,Dark Green,Issue F,Harness B,Program A
+2025-08-22,NUSWTYCHR25030587,Dark Green,Issue F,Harness B,Program A
+2025-08-22,NUSWTYCHR25030562,Dark Green,Issue F,Harness B,Program A
+2025-08-22,NUSWTYCHR25030545,Dark Green,Issue F,Harness B,Program A
+2025-10-03,NMXWTYCHR25035111,Light Green,Issue F,Harness B,Program A
+2025-10-09,NUSWTYCHR25035718,Dark Green,Issue F,Harness B,Program A
+2025-05-12,NUSQLTCHR25016923,Dark Green,Issue F,Harness A,Program A
+2025-09-13,NUSQLTCHR25032617,Yellow,Issue F,Harness A,Program A
+2025-01-22,NMXWTYCHR25002037,Dark Green,Issue F,Harness A,Program A

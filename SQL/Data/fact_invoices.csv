@@ -1,0 +1,75 @@
+created_date,invoice_name,invoice_id,issue,supplier,program,cost,status,payment_date
+2025-09-07,FW88 WS HARNESS INSPECTION,5885-23716,Issue A,Supplier 1,Program A,5105.0,PAID,2025-11-13
+2025-09-14,FW88 WS HARNESS INSPECTION,5885-23790,Issue A,Supplier 1,Program A,4130.0,PAID,2025-10-23
+2025-10-08,FW88 WS HARNESS INSPECTION,5885-23975,Issue A,Supplier 1,Program A,4118.75,PAID,2025-11-13
+2025-10-16,FW88 WS HARNESS INSPECTION,5885-24024,Issue A,Supplier 1,Program A,5341.25,PAID,2025-11-13
+2025-10-23,FW88 WS HARNESS INSPECTION,5885-24094,Issue A,Supplier 1,Program A,3460.0,PAID,2025-11-13
+2025-10-29,FW88 WS HARNESS INSPECTION,5885-24140,Issue A,Supplier 1,Program A,7910.0,PAID,2025-12-23
+2025-11-02,FW88 WS HARNESS INSPECTION,5885-24183,Issue A,Supplier 1,Program A,8525.0,PAID,2025-12-23
+2025-09-21,FW88 WS HARNESS INSPECTION,5885-23850,Issue A,Supplier 1,Program A,,UNPAID,
+2025-09-28,FW88 WS HARNESS INSPECTION,5885-23902,Issue A,Supplier 1,Program A,,UNPAID,
+2025-11-09,FW88 WS HARNESS INSPECTION,5885-24248,Issue A,Supplier 1,Program A,,UNPAID,
+2025-11-16,FW88 WS HARNESS INSPECTION,5885-24305,Issue A,Supplier 1,Program A,,UNPAID,
+2025-11-23,FW88 WS HARNESS INSPECTION,5885-24383,Issue A,Supplier 1,Program A,,UNPAID,
+2025-12-04,FW88 WS HARNESS INSPECTION,5949-24441,Issue A,Supplier 1,Program A,,UNPAID,
+2025-12-10,FW88 WS HARNESS INSPECTION,5885-24508,Issue A,Supplier 1,Program A,,UNPAID,
+2025-12-17,FW88 WS HARNESS INSPECTION,5885-24569,Issue A,Supplier 1,Program A,,UNPAID,
+2026-01-01,FW88 WS HARNESS INSPECTION,5885-24639,Issue A,Supplier 1,Program A,,UNPAID,
+2025-11-09,Headliner DT terminal inverted,5949-24247,Issue C,Supplier 1,Program B,2940.0,PAID,2025-12-23
+2025-11-16,Headliner DT terminal inverted,5949-24304,Issue C,Supplier 1,Program B,2525.0,PAID,2025-12-23
+2025-11-23,Headliner DT terminal inverted,5949-24384,Issue C,Supplier 1,Program B,777.5,PAID,2025-12-23
+2025-12-04,Headliner DT terminal inverted,5949-24440,Issue C,Supplier 1,Program B,275.0,UNPAID,
+2026-01-01,Headliner DT terminal inverted,5885-24686,Issue C,Supplier 1,Program B,,UNPAID,
+2025-01-31,Material WS (1/31/25),238435,Issue B,Supplier 2,Program A,3690.25,PAID,2025-02-10
+2025-02-02,Material WS (2/2/25),238245,Issue B,Supplier 2,Program A,986.0,PAID,2025-02-27
+2025-02-09,Material WS (2/9/25),238563,Issue B,Supplier 2,Program A,3489.75,PAID,2025-03-25
+2025-02-13,Material WS (2/13/25),239572,Issue B,Supplier 2,Program A,4350.0,PAID,2025-02-27
+2025-03-09,Material WS (3/9/25),239925,Issue B,Supplier 2,Program A,2798.5,PAID,2025-05-20
+2025-03-13,Material WS (3/13/25),238903,Issue B,Supplier 2,Program A,2769.5,PAID,2025-04-10
+2025-03-16,Material WS (3/16/25),240214,Issue B,Supplier 2,Program A,4915.5,PAID,2025-10-23
+2025-03-23,Material WS (3/23/25),240615,Issue B,Supplier 2,Program A,2175.0,PAID,2025-10-23
+2025-03-30,Material WS (3/30/25),241087,Issue B,Supplier 2,Program A,2262.0,PAID,2025-05-20
+2025-04-06,Material WS (4/6/25),241293,Issue B,Supplier 2,Program A,3480.0,PAID,2025-05-20
+2025-04-13,Material WS (4/13/25),241616,Issue B,Supplier 2,Program A,3480.0,PAID,2025-05-20
+2025-04-20,Material WS (4/20/25),241900,Issue B,Supplier 2,Program A,2871.0,PAID,2025-05-20
+2025-04-27,Material WS (4/27/25),242186,Issue B,Supplier 2,Program A,1015.0,PAID,2025-06-23
+2025-05-11,Material WS (5/11/25),242828,Issue B,Supplier 2,Program A,1508.0,PAID,2025-06-23
+2025-05-18,Material WS (5/18/25),243137,Issue B,Supplier 2,Program A,3610.5,PAID,2025-08-20
+2025-05-25,Material WS (5/25/25),243445,Issue B,Supplier 2,Program A,464.0,PAID,2025-06-23
+2025-06-01,Material WS (6/1/25),243748,Issue B,Supplier 2,Program A,1914.0,PAID,2025-06-23
+2025-06-08,Material WS (6/8/25),244080,Issue B,Supplier 2,Program A,2494.0,PAID,2025-10-20
+2025-06-15,Material WS (6/15/25),244407,Issue B,Supplier 2,Program A,2233.0,PAID,2025-08-20
+2025-06-22,Material WS (6/22/25),244712,Issue B,Supplier 2,Program A,1914.0,PAID,2025-08-20
+2025-06-29,Material WS (6/29/2025),245018,Issue B,Supplier 2,Program A,2450.5,PAID,2025-10-20
+2025-07-06,Material WS (07/06/2025),245286,Issue B,Supplier 2,Program A,1943.0,PAID,2025-10-20
+2025-07-13,Material WS (7/13/25),245534,Issue B,Supplier 2,Program A,2088.0,PAID,2025-10-20
+2025-07-20,Material WS (7/20/25),245802,Issue B,Supplier 2,Program A,2668.0,PAID,2025-10-20
+2025-07-27,Material WS (7/27/25),246111,Issue B,Supplier 2,Program A,522.0,PAID,2025-08-20
+2025-08-03,Material WS (8/3/25),246429,Issue B,Supplier 2,Program A,2668.0,PAID,2025-10-23
+2025-08-10,Material WS (8/10/25),246740,Issue B,Supplier 2,Program A,2755.0,PAID,2025-12-05
+2025-08-17,Material WS (8/17/2025),247086,Issue B,Supplier 2,Program A,4234.0,PAID,2025-10-23
+2025-08-24,Material WS (08/24/2025),247414,Issue B,Supplier 2,Program A,5365.0,PAID,2025-12-05
+2025-08-31,Material WS (08/31/2025),247752,Issue B,Supplier 2,Program A,5104.0,UNPAID,
+2025-09-07,Material WS (09/7/2025),248021,Issue B,Supplier 2,Program A,3929.5,UNPAID,
+2025-09-14,Material WS (09/14/2025),248411,Issue B,Supplier 2,Program A,2755.0,UNPAID,
+2025-09-21,Material WS (09/21/2025),248691,Issue B,Supplier 2,Program A,2755.0,UNPAID,
+2025-09-28,Material WS (09/28/2025),249054,Issue B,Supplier 2,Program A,3625.0,UNPAID,
+2025-10-05,Material WS (10/5/2025),249378,Issue B,Supplier 2,Program A,3625.0,UNPAID,
+2025-10-12,Material WS (10/12/2025),249707,Issue B,Supplier 2,Program A,4408.0,UNPAID,
+2025-10-19,Material WS (10/19/2025),250007,Issue B,Supplier 2,Program A,3712.0,UNPAID,
+2025-10-26,Material WS (10/26/2025),250336,Issue B,Supplier 2,Program A,7250.0,UNPAID,
+2025-11-02,Material WS (11/2/2025),250759,Issue B,Supplier 2,Program A,9164.0,UNPAID,
+2025-11-09,Material WS (11/9/2025),250991,Issue B,Supplier 2,Program A,5495.5,UNPAID,
+2025-11-16,Material WS (11/16/2025),251295,Issue B,Supplier 2,Program A,3190.0,UNPAID,
+2025-11-23,Material WS (11/23/2025),251636,Issue B,Supplier 2,Program A,3973.0,UNPAID,
+2025-11-30,Material WS (11/30/2025),251953,Issue B,Supplier 2,Program A,1624.0,UNPAID,
+2025-12-07,Material WS (12/7/2025),252265,Issue B,Supplier 2,Program A,3480.0,UNPAID,
+2025-12-14,Material WS (12/14/2025),252570,Issue B,Supplier 2,Program A,4524.0,UNPAID,
+2025-12-21,Material WS (12/21/2025),252913,Issue B,Supplier 2,Program A,4524.0,UNPAID,
+2025-12-28,Material WS (12/28/2025),253134,Issue B,Supplier 2,Program A,1740.0,UNPAID,
+2025-04-18,Slider conector 85 ,"USI386556, USI386857, USI387300",Issue D,Supplier 3,Program B,26518.35,PAID,2025-09-25
+2025-10-03,Grommet 2002 sin el clip insertado,USI404494,Issue E,Supplier 3,Program B,7782.27,PAID,2025-11-14
+2025-10-07,Grommet 2002 sin el clip insertado,USI402997,Issue E,Supplier 3,Program B,4664.3,PAID,2025-11-14
+2025-10-10,Grommet 2002 sin el clip insertado,USI404870,Issue E,Supplier 3,Program B,3224.32,PAID,2025-11-14
+2025-10-17,Grommet 2002 sin el clip insertado,USI405447,Issue E,Supplier 3,Program B,3649.5,PAID,2025-11-14
+2025-10-24,Grommet 2002 sin el clip insertado,USI405694,Issue E,Supplier 3,Program B,1996.65,UNPAID,
