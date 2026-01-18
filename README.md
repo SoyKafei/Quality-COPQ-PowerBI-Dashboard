@@ -58,12 +58,12 @@ This project uses a **professional dimensional model**, which improves performan
 
 ---
 
-
 ## 📊 Screenshots
 
 | Overview | COPQ Page | About Page |
 |----------|-----------|------------|
-| screenshots/QUALITY.png | screenshots/COPQ.png | screenshots/about_page.png |
+| screenshots/Quality Screenshot.png | screenshots/COPQ Screenshot.png | screenshots/About this
+
 
 
 ## 🛠 Skills Demonstrated
