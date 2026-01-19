@@ -87,7 +87,9 @@ This project uses a **professional dimensional model**, which improves performan
 ## 👤 Author
 **Armando Barron**  
 Quality Lead Engineering / Data Analyst  
-(Insert LinkedIn or email here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armando%20Barron-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-barron-garcia-7777a91b1/)
+[![Email](https://img.shields.io/badge/Email-manzanerobarron%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzanerobarron@gmail.com)
+
 
 ---
 ``
