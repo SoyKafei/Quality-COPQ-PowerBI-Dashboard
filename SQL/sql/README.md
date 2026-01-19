@@ -58,6 +58,39 @@ All analysis queries are stored in **`analysis_queries.sql`**.
 |---------------|------------------|
 | `screenshots/join_claims_invoices.png` | `screenshots/view_star_model.png` |
 
+## 🛠 How to Reproduce
+
+1. Open **`schema.sql`** in MySQL Workbench.  
+2. Execute the script to create all DIM and FACT tables.  
+3. Import each CSV file using *Table Data Import Wizard*:
+   - `fact_claims.csv` → `FactClaims`
+   - `fact_invoices.csv` → `FactInvoices`
+   - Dim CSV files → corresponding dimension tables  
+4. Execute the queries in **`analysis_queries.sql`**.  
+5. Review results or screenshots inside `sql/screenshots/`.
+
 ---
 
-## 🗂 Project Structure
+## 🎯 Purpose of the Project
+
+This project demonstrates real‑world SQL skills required for:
+
+- Data Analyst  
+- Business Intelligence Analyst  
+- Operations / Manufacturing Analyst  
+- Quality Engineer (with data focus)  
+
+Key skills demonstrated:
+
+- Star‑schema design  
+- Data cleaning and transformation  
+- Analytical SQL (GROUP BY, JOINs, DATE functions)  
+- Quality & COPQ metrics  
+- Manufacturing performance analysis  
+- Reproducible data project structure  
+
+---
+
+## 📩 Contact
+
+Feel free to reach out if you want to run the dataset, extend the analysis, or integrate it with Python or Power BI.
