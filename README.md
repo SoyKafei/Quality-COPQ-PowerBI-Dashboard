@@ -1,7 +1,5 @@
-
-# Quality & COPQ (Cost of Poor Quality) Power BI Dashboard  
-A portfolio-ready Power BI report for analyzing Quality Issues (Claims) and COPQ across programs, product families, and failure modes.  
-The dataset has been fully anonymized using generic categories (Program A/B, Harness A/B/C, Issue A–F) to ensure confidentiality and make the solution reusable for any manufacturing or service environment.
+An end‑to‑end analytics project for Manufacturing Quality (Claims) and COPQ (Cost of Poor Quality) using a clean Star Schema, SQL analysis, Python automation, and a reusable Power BI dashboard template.
+This repository is designed as a complete data portfolio project for Data Analyst / BI Analyst / Quality Engineering roles.
 
 ---
 
